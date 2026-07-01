@@ -1,0 +1,812 @@
+canonical_identifier: bkk:krp/KR6k0095/v1
+canonical_location: https://kanripo.org/bkk/KR6k0095/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 菩薩戒疏隨見錄
+  identifiers:
+    alt_id:
+    - X38n0692
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X38/X38n0692.xml
+    old_id: X38n0692
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0095_000.yaml, hash: 'sha256:79b799dc27a1e2c7a2cf0ffb08c3f76d79e21355b9c35d41dca148c7dce54ccf'}
+  - {seq: 1, filename: KR6k0095_001.yaml, hash: 'sha256:b993028e91a7e6ecbdd4cc8a394a573487ceb14e21a35228e1b2bc16f444252a'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6k0095_001.markers.yaml, hash: 'sha256:fb038fac1e071cf00dabeadbabaa627d10047b96f45976994f91a527400ad937'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 14079
+  label: 菩薩戒疏隨見錄
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-1
+    span:
+    - body
+    - 13
+    - 13
+  label: 經前演義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-2
+    span:
+    - body
+    - 17
+    - 17
+  label: 圓教
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-3
+    span:
+    - body
+    - 469
+    - 469
+  label: 又
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-4
+    span:
+    - body
+    - 1093
+    - 1093
+  label: 無作
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-5
+    span:
+    - body
+    - 1706
+    - 1706
+  label: 發無作
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-6
+    span:
+    - body
+    - 2009
+    - 2009
+  label: 無三障
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-7
+    span:
+    - body
+    - 2321
+    - 2321
+  label: 經序分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-8
+    span:
+    - body
+    - 2324
+    - 2324
+  label: 光告
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-9
+    span:
+    - body
+    - 2766
+    - 2766
+  label: 起座
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-10
+    span:
+    - body
+    - 3012
+    - 3012
+  label: 佛性種子
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-11
+    span:
+    - body
+    - 3565
+    - 3565
+  label: 經十重
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-12
+    span:
+    - body
+    - 3568
+    - 3568
+  label: 性戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-13
+    span:
+    - body
+    - 3912
+    - 3912
+  label: 殺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-14
+    span:
+    - body
+    - 4289
+    - 4289
+  label: 盜
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-15
+    span:
+    - body
+    - 4834
+    - 4834
+  label: 婬
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-16
+    span:
+    - body
+    - 5017
+    - 5017
+  label: 妄語
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-17
+    span:
+    - body
+    - 5286
+    - 5286
+  label: 酤酒
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-18
+    span:
+    - body
+    - 5395
+    - 5395
+  label: 說四眾過
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-19
+    span:
+    - body
+    - 5615
+    - 5615
+  label: 自讚毀他
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-20
+    span:
+    - body
+    - 5816
+    - 5816
+  label: 慳惜加毀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-21
+    span:
+    - body
+    - 5986
+    - 5986
+  label: 瞋不受悔
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-22
+    span:
+    - body
+    - 6234
+    - 6234
+  label: 謗三寶
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-23
+    span:
+    - body
+    - 6468
+    - 6468
+  label: 教人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-24
+    span:
+    - body
+    - 6721
+    - 6721
+  label: 惡心
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-25
+    span:
+    - body
+    - 6823
+    - 6823
+  label: 失位
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-26
+    span:
+    - body
+    - 6961
+    - 6961
+  label: 經四十八輕
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-27
+    span:
+    - body
+    - 6966
+    - 6966
+  label: 不敬師友
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-28
+    span:
+    - body
+    - 7082
+    - 7082
+  label: 飲酒
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-29
+    span:
+    - body
+    - 7153
+    - 7153
+  label: 食肉
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-30
+    span:
+    - body
+    - 7236
+    - 7236
+  label: 食五辛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-31
+    span:
+    - body
+    - 7276
+    - 7276
+  label: 不教悔罪
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-32
+    span:
+    - body
+    - 7406
+    - 7406
+  label: 不供給請法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-33
+    span:
+    - body
+    - 7503
+    - 7503
+  label: 懈怠不聽法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-34
+    span:
+    - body
+    - 7574
+    - 7574
+  label: 背大向小
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-35
+    span:
+    - body
+    - 7675
+    - 7675
+  label: 不看病
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-36
+    span:
+    - body
+    - 7781
+    - 7781
+  label: 畜殺眾生具
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-37
+    span:
+    - body
+    - 7856
+    - 7856
+  label: 國使
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-38
+    span:
+    - body
+    - 7982
+    - 7982
+  label: 販賣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-39
+    span:
+    - body
+    - 8026
+    - 8026
+  label: 謗毀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-40
+    span:
+    - body
+    - 8168
+    - 8168
+  label: 放火焚燒
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-41
+    span:
+    - body
+    - 8324
+    - 8324
+  label: 僻教
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-42
+    span:
+    - body
+    - 8584
+    - 8584
+  label: 為利倒說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-43
+    span:
+    - body
+    - 8747
+    - 8747
+  label: 恃勢乞求
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-44
+    span:
+    - body
+    - 8907
+    - 8907
+  label: 無解作師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-45
+    span:
+    - body
+    - 9079
+    - 9079
+  label: 兩舌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-46
+    span:
+    - body
+    - 9147
+    - 9147
+  label: 不行放救
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-47
+    span:
+    - body
+    - 9318
+    - 9318
+  label: 瞋打報讐
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-48
+    span:
+    - body
+    - 9625
+    - 9625
+  label: 憍慢不請法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-49
+    span:
+    - body
+    - 9677
+    - 9677
+  label: 僻說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-50
+    span:
+    - body
+    - 9808
+    - 9808
+  label: 不習學佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-51
+    span:
+    - body
+    - 9855
+    - 9855
+  label: 不善知眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-52
+    span:
+    - body
+    - 10012
+    - 10012
+  label: 獨受利養
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-53
+    span:
+    - body
+    - 10097
+    - 10097
+  label: 受別請
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-54
+    span:
+    - body
+    - 10144
+    - 10144
+  label: 別請僧
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-55
+    span:
+    - body
+    - 10250
+    - 10250
+  label: 邪命自活
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-56
+    span:
+    - body
+    - 10327
+    - 10327
+  label: 不敬好時
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-57
+    span:
+    - body
+    - 10580
+    - 10580
+  label: 不行救贖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-58
+    span:
+    - body
+    - 10748
+    - 10748
+  label: 損害眾生
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-59
+    span:
+    - body
+    - 10858
+    - 10858
+  label: 邪業覺觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-60
+    span:
+    - body
+    - 10984
+    - 10984
+  label: 暫念小乘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-61
+    span:
+    - body
+    - 11125
+    - 11125
+  label: 不發願
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-62
+    span:
+    - body
+    - 11365
+    - 11365
+  label: 不發誓
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-63
+    span:
+    - body
+    - 11692
+    - 11692
+  label: 冐難遊行
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-64
+    span:
+    - body
+    - 11852
+    - 11852
+  label: 乖尊卑次序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-65
+    span:
+    - body
+    - 12015
+    - 12015
+  label: 不修福慧
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-66
+    span:
+    - body
+    - 12087
+    - 12087
+  label: 揀擇受戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-67
+    span:
+    - body
+    - 12281
+    - 12281
+  label: 為利作師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-68
+    span:
+    - body
+    - 12485
+    - 12485
+  label: 為惡人說戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-69
+    span:
+    - body
+    - 12717
+    - 12717
+  label: 無慚受施
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-70
+    span:
+    - body
+    - 12834
+    - 12834
+  label: 不供養經典
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-71
+    span:
+    - body
+    - 12943
+    - 12943
+  label: 不化眾生
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-72
+    span:
+    - body
+    - 13012
+    - 13012
+  label: 說法不如法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-73
+    span:
+    - body
+    - 13216
+    - 13216
+  label: 非法制限
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-74
+    span:
+    - body
+    - 13435
+    - 13435
+  label: 破法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-75
+    span:
+    - body
+    - 13615
+    - 13615
+  label: 經流通分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-76
+    span:
+    - body
+    - 13619
+    - 13619
+  label: 流通
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0095_X_001-mulu-77
+    span:
+    - body
+    - 13991
+    - 13991
+  label: 因果佛性常住藏
+  type: mulu
+  level: 1
+hash: sha256:adf5323e407495c27cc2c50bf8579fa89f59c1ac4cb540378b1ca9969a2747b4
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
