@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6k0095_000.yaml, hash: 'sha256:79b799dc27a1e2c7a2cf0ffb08c3f76d79e21355b9c35d41dca148c7dce54ccf'}
-  - {seq: 1, filename: KR6k0095_001.yaml, hash: 'sha256:b993028e91a7e6ecbdd4cc8a394a573487ceb14e21a35228e1b2bc16f444252a'}
+  - {seq: 1, filename: KR6k0095_001.yaml, hash: 'sha256:b655353ac9194ee31d6d405dcc047c4e843cfb15f6f58385954904d6706abbe4'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6k0095_001.markers.yaml, hash: 'sha256:fb038fac1e071cf00dabeadbabaa627d10047b96f45976994f91a527400ad937'}
+  - {seq: 0, role: markers, filename: assets/KR6k0095_000.markers.yaml, hash: 'sha256:5e7fa864671e91d82899dd5605b7e23ede6d47f95cebb41d9b6f17e1e81ad875'}
+  - {seq: 1, role: markers, filename: assets/KR6k0095_001.markers.yaml, hash: 'sha256:69bb0375cc75e1fe8ee24c4be91998c319639d29b53058d84ecc0703323266df'}
 table_of_contents:
 - ref:
     seq: 1
@@ -806,7 +807,4 @@ table_of_contents:
   label: 因果佛性常住藏
   type: mulu
   level: 1
-hash: sha256:adf5323e407495c27cc2c50bf8579fa89f59c1ac4cb540378b1ca9969a2747b4
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:e17e11332d278e229d48c2b92dc761eb3d81cc0cbd4bad61bde1052973cc51bf
