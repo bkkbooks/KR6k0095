@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6k0095/v1
 canonical_location: https://kanripo.org/bkk/KR6k0095/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 菩薩戒疏隨見錄
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6k0095_000.yaml, hash: 'sha256:79b799dc27a1e2c7a2cf0ffb08c3f76d79e21355b9c35d41dca148c7dce54ccf'}
-  - {seq: 1, filename: KR6k0095_001.yaml, hash: 'sha256:b655353ac9194ee31d6d405dcc047c4e843cfb15f6f58385954904d6706abbe4'}
+  - {seq: 1, filename: KR6k0095_001.yaml, hash: 'sha256:f2046936831a581142754e250ef4e4bd08673354669697ef3f6aab7e38331bee'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6k0095_000.markers.yaml, hash: 'sha256:5e7fa864671e91d82899dd5605b7e23ede6d47f95cebb41d9b6f17e1e81ad875'}
-  - {seq: 1, role: markers, filename: assets/KR6k0095_001.markers.yaml, hash: 'sha256:69bb0375cc75e1fe8ee24c4be91998c319639d29b53058d84ecc0703323266df'}
+  - {seq: 1, role: markers, filename: assets/KR6k0095_001.markers.yaml, hash: 'sha256:ff7f3eb94df8827dd24b5076d304e633d6aa2dbdadb03bc95218e23ac555af6b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -807,4 +807,7 @@ table_of_contents:
   label: 因果佛性常住藏
   type: mulu
   level: 1
-hash: sha256:e17e11332d278e229d48c2b92dc761eb3d81cc0cbd4bad61bde1052973cc51bf
+hash: sha256:75818eb1cc7981fdc800493211b9248b8129b9253a3ddacea93bd4af8249c84a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
